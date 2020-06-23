@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="entfrm-biz-cms" />
+        <module name="entfrm-core-data" />
+        <module name="entfrm-core-security" />
+        <module name="entfrm-core-base" />
+        <module name="test" />
+        <module name="entfrm-web" />
+        <module name="entfrm-biz-monitor" />
+        <module name="entfrm-biz-activiti" />
+        <module name="entfrm-biz-msg" />
+        <module name="entfrm-biz-quartz" />
+        <module name="entfrm-biz-system" />
+        <module name="entfrm-auth" />
+        <module name="entfrm-core-log" />
+        <module name="entfrm-biz-devtool" />
+        <module name="entfrm-core-swagger" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="entfrm" options="" />
+      <module name="entfrm-auth" options="" />
+      <module name="entfrm-biz" options="" />
+      <module name="entfrm-biz-activiti" options="" />
+      <module name="entfrm-biz-cms" options="" />
+      <module name="entfrm-biz-devtool" options="" />
+      <module name="entfrm-biz-monitor" options="" />
+      <module name="entfrm-biz-msg" options="" />
+      <module name="entfrm-biz-quartz" options="" />
+      <module name="entfrm-biz-system" options="" />
+      <module name="entfrm-core" options="" />
+      <module name="entfrm-core-base" options="" />
+      <module name="entfrm-core-data" options="" />
+      <module name="entfrm-core-log" options="" />
+      <module name="entfrm-core-security" options="" />
+      <module name="entfrm-core-swagger" options="" />
+      <module name="entfrm-web" options="" />
+      <module name="test" options="" />
+    </option>
+  </component>
+</project>
